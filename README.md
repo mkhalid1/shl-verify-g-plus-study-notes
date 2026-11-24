@@ -1,13 +1,13 @@
 # SHL Verify G+ Study Notes
 
-A free, complete study guide for SHL Verify G+, the general ability test that mixes numerical, deductive and inductive reasoning in 36 minutes. It covers how the test works, which version you have, a clear method for each of the three question types, 45 original practice items with full explanations, how the adaptive scoring is reported, and study plans for a week or a weekend. Facts about the test come only from SHL's own pages and documents, each one [cited](docs/sources.md).
+A free, complete study guide for SHL Verify G+, the general ability test that mixes numerical, deductive and inductive reasoning in 36 minutes. It covers how the test works, which version you have, a clear method for each of the three question types, 21 original practice items with full explanations, how the adaptive scoring is reported, and study plans for a week or a weekend. Facts about the test come only from SHL's own pages and documents, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free timed SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak ability.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items for each ability and tells you where to start.
-2. **Fix the weakest one first.** Open its guide below, learn the method and the traps, then do its 12 practice items.
+1. **Find your weak ability.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two items for each ability and tells you where to start.
+2. **Fix the weakest one first.** Open its guide below, learn the method and the traps, then do its 5 practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
 Not sure your invitation is for Verify G+? Check [which SHL general ability test you have](docs/versions.md) first.
@@ -35,7 +35,7 @@ Sources: [SHL Verify G+ fact sheet](https://www.shl.com/assets/documents/rebrand
 | Deductive | Find what must follow from facts, or judge an argument | "Which of the following must be true?" | [Deductive reasoning](docs/sections/deductive-reasoning.md) |
 | Inductive | Find the rule in a series of shapes | "Which figure comes next?" | [Inductive reasoning](docs/sections/inductive-reasoning.md) |
 
-Every section guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+Every section guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -160,7 +160,7 @@ Every section guide has the same parts: what it measures, how the questions look
 
 ## About the practice items
 
-All 45 practice items (36 in the section guides and 9 in the diagnostic) are original, written for these notes. None are taken from Verify G+, from SHL's materials or from any prep site. Inductive figures are written as text symbols so you can work through them anywhere. They follow the published question types so that the methods transfer to the real test.
+All 21 practice items (15 in the section guides and 6 in the diagnostic) are original, written for these notes. None are taken from Verify G+, from SHL's materials or from any prep site. Inductive figures are written as text symbols so you can work through them anywhere. They follow the published question types so that the methods transfer to the real test.
 
 ## Contributing
 

@@ -9,9 +9,9 @@ Two plans: one for a week, one for when the invitation has already arrived. Both
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read the [test overview](test-overview.md) and check [which version you have](versions.md). Take the [diagnostic](diagnostic.md). Note your weakest ability. |
-| 2 | Numerical | Read the [numerical guide](sections/numerical-reasoning.md). Do all 12 items with a calculator. For each miss, write which operation you used and which you should have used. |
-| 3 | Deductive | Read the [deductive guide](sections/deductive-reasoning.md). Learn the common forms table until you can write it from memory. Do all 12 items. |
-| 4 | Inductive | Read the [inductive guide](sections/inductive-reasoning.md). Do all 12 items, listing features for each before answering. |
+| 2 | Numerical | Read the [numerical guide](sections/numerical-reasoning.md). Do all 5 items with a calculator. For each miss, write which operation you used and which you should have used. |
+| 3 | Deductive | Read the [deductive guide](sections/deductive-reasoning.md). Learn the common forms table until you can write it from memory. Do all 5 items. |
+| 4 | Inductive | Read the [inductive guide](sections/inductive-reasoning.md). Do all 5 items, listing features for each before answering. |
 | 5 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus). Score it by ability. Read the [timing guide](timing.md). |
 | 6 | Fix the weakest ability | Go back to its traps list. Redo its items without the answers. Then try SHL's own practice test for that ability. |
 | 7 | Second timed run and rest | One more timed run in the morning. Compare with day 5. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
@@ -33,7 +33,7 @@ For when the link has arrived and the deadline is close.
 | When | What to do |
 |---|---|
 | Day 1, morning | Take the [diagnostic](diagnostic.md). Read the method and traps for your weakest ability only. |
-| Day 1, afternoon | Do that ability's 12 practice items. Review every miss using the three questions above. |
+| Day 1, afternoon | Do that ability's 5 practice items. Review every miss using the three questions above. |
 | Day 1, evening | Read the other two methods and the [deductive common forms](sections/deductive-reasoning.md#common-forms-to-know). Skip their items if you are short of time. |
 | Day 2, morning | One full timed run. Note where you ran over time. |
 | Day 2, afternoon | Read the [timing guide](timing.md) and the [checklist](test-day-checklist.md). Take the real test when you are fresh, ideally not late at night. |
