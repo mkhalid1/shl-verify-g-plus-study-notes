@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -47,4 +49,6 @@ For when the link has arrived and the deadline is close.
 
 ---
 
-<!-- nav:bottom -->← Previous: [Timing and pacing](timing.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Timing and pacing](timing.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

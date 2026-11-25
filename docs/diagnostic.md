@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Which SHL general ability test do you have?](versions.md) · Next: [Numerical reasoning](sections/numerical-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Which SHL general ability test do you have?](versions.md) · Next: [Numerical reasoning](sections/numerical-reasoning.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -79,4 +81,6 @@ If you scored 2 on every part, go straight to a full timed run, because your mai
 
 ---
 
-<!-- nav:bottom -->← Previous: [Which SHL general ability test do you have?](versions.md) | Next: [Numerical reasoning](sections/numerical-reasoning.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Which SHL general ability test do you have?](versions.md) | Next: [Numerical reasoning](sections/numerical-reasoning.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -45,4 +47,6 @@ If you have a day or more, one last timed run is the best use of an hour. The [f
 
 ---
 
-<!-- nav:bottom -->← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

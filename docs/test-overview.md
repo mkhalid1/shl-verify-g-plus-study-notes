@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [Which SHL general ability test do you have?](versions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [Which SHL general ability test do you have?](versions.md)
+<!-- /nav:top -->
 
 # The SHL Verify G+ test explained
 
@@ -57,4 +59,6 @@ Read the three section guides, then try a full timed run. The [free SHL Verify G
 
 ---
 
-<!-- nav:bottom -->Next: [Which SHL general ability test do you have?](versions.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [Which SHL general ability test do you have?](versions.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

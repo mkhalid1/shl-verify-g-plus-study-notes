@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The SHL Verify G+ test explained](test-overview.md) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The SHL Verify G+ test explained](test-overview.md) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # Which SHL general ability test do you have?
 
@@ -37,4 +39,6 @@ For the multiple-choice style, the [free SHL Verify G+ practice test on PrepClub
 
 ---
 
-<!-- nav:bottom -->← Previous: [The SHL Verify G+ test explained](test-overview.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The SHL Verify G+ test explained](test-overview.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

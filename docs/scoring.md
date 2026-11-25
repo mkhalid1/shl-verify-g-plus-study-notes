@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Inductive reasoning](sections/inductive-reasoning.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Inductive reasoning](sections/inductive-reasoning.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How SHL Verify G+ scoring works
 
@@ -64,4 +66,6 @@ Track your scores by ability, not only overall. The [free SHL Verify G+ practice
 
 ---
 
-<!-- nav:bottom -->← Previous: [Inductive reasoning](sections/inductive-reasoning.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Inductive reasoning](sections/inductive-reasoning.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

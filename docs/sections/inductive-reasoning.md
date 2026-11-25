@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Deductive reasoning](deductive-reasoning.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Deductive reasoning](deductive-reasoning.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Inductive reasoning
 
@@ -153,4 +155,6 @@ Text symbols are good for learning the rules, but the real test uses drawn figur
 
 ---
 
-<!-- nav:bottom -->← Previous: [Deductive reasoning](deductive-reasoning.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Deductive reasoning](deductive-reasoning.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

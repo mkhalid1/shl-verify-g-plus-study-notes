@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Numerical reasoning](numerical-reasoning.md) · Next: [Inductive reasoning](inductive-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Numerical reasoning](numerical-reasoning.md) · Next: [Inductive reasoning](inductive-reasoning.md)
+<!-- /nav:top -->
 
 # Deductive reasoning
 
@@ -154,4 +156,6 @@ Deductive items are easier on paper than on a timer. Try them mixed with numeric
 
 ---
 
-<!-- nav:bottom -->← Previous: [Numerical reasoning](numerical-reasoning.md) | Next: [Inductive reasoning](inductive-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Numerical reasoning](numerical-reasoning.md) | Next: [Inductive reasoning](inductive-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

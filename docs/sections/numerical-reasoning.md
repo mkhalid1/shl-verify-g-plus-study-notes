@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Deductive reasoning](deductive-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Deductive reasoning](deductive-reasoning.md)
+<!-- /nav:top -->
 
 # Numerical reasoning
 
@@ -154,4 +156,6 @@ The real test mixes numerical items with deductive and inductive ones, so practi
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Deductive reasoning](deductive-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Deductive reasoning](deductive-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
