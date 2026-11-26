@@ -14,7 +14,7 @@ Two plans: one for a week, one for when the invitation has already arrived. Both
 | 2 | Numerical | Read the [numerical guide](sections/numerical-reasoning.md). Do all 5 items with a calculator. For each miss, write which operation you used and which you should have used. |
 | 3 | Deductive | Read the [deductive guide](sections/deductive-reasoning.md). Learn the common forms table until you can write it from memory. Do all 5 items. |
 | 4 | Inductive | Read the [inductive guide](sections/inductive-reasoning.md). Do all 5 items, listing features for each before answering. |
-| 5 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus). Score it by ability. Read the [timing guide](timing.md). |
+| 5 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus). Score it by ability. Read the [timing guide](timing.md). |
 | 6 | Fix the weakest ability | Go back to its traps list. Redo its items without the answers. Then try SHL's own practice test for that ability. |
 | 7 | Second timed run and rest | One more timed run in the morning. Compare with day 5. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 

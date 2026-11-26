@@ -147,11 +147,11 @@ A. 1 &nbsp; B. 4 &nbsp; C. 5 &nbsp; D. 6 &nbsp; E. 9
 - **4:** most misses in set 2 and 3 come from finding one rule and stopping. Train the habit of listing every feature first.
 - **3 or fewer:** do the items again slowly, writing each feature as its own row and filling in how it changes. Speed comes after the habit.
 
-Want more? The free timed SHL Verify G+ practice test on PrepClubs has the full 30 questions, scored by section: [free SHL Verify G+ practice test](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus).
+Want more? The free timed SHL Verify G+ practice test on PrepClubs has the full 30 questions, scored by section: [free SHL Verify G+ practice test](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus).
 
 ## Next step
 
-Text symbols are good for learning the rules, but the real test uses drawn figures. See how they look on screen in the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus).
+Text symbols are good for learning the rules, but the real test uses drawn figures. See how they look on screen in the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus).
 
 ---
 

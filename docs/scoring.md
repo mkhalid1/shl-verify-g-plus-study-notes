@@ -62,7 +62,7 @@ SHL does not publish a penalty for wrong answers on its Verify G+ pages, and we 
 
 ## Practise and track your score
 
-Track your scores by ability, not only overall. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus) breaks results down so you can see which of the three abilities to work on next.
+Track your scores by ability, not only overall. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus) breaks results down so you can see which of the three abilities to work on next.
 
 ---
 

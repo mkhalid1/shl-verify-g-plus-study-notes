@@ -148,11 +148,11 @@ E. The first café sells hot food as well as drinks.
 - **4:** check which set cost you most. Misses in set 1 usually mean a reversed rule. Misses in set 2 usually mean you stopped at the first arrangement.
 - **3 or fewer:** go back to the method. Write each fact as a note before looking at the options, and test every option with "could this be false?"
 
-Want more? The free timed SHL Verify G+ practice test on PrepClubs has the full 30 questions, scored by section: [free SHL Verify G+ practice test](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus).
+Want more? The free timed SHL Verify G+ practice test on PrepClubs has the full 30 questions, scored by section: [free SHL Verify G+ practice test](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus).
 
 ## Next step
 
-Deductive items are easier on paper than on a timer. Try them mixed with numerical and inductive questions in the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus).
+Deductive items are easier on paper than on a timer. Try them mixed with numerical and inductive questions in the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus).
 
 ---
 

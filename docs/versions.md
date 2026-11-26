@@ -35,7 +35,7 @@ Sources: [Verify G+ fact sheet](https://www.shl.com/assets/documents/rebranded-a
 
 ## Practise the format you will face
 
-For the multiple-choice style, the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus) mirrors the three question types. For the interactive style, use [SHL's own practice tests](https://www.shl.com/shldirect/en/practice-tests/).
+For the multiple-choice style, the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus) mirrors the three question types. For the interactive style, use [SHL's own practice tests](https://www.shl.com/shldirect/en/practice-tests/).
 
 ---
 

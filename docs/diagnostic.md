@@ -77,7 +77,7 @@ A. □□■□□ &nbsp; B. □□□■□ &nbsp; C. ■□□□□ &nbsp; D.
 | Any part | 1 | Do that section's guide after your weakest one. |
 | Any part | 2 | Solid. Skim its traps list and spend your time elsewhere. |
 
-If you scored 2 on every part, go straight to a full timed run, because your main risk is pace. The [timing guide](timing.md) and the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus) are the next step.
+If you scored 2 on every part, go straight to a full timed run, because your main risk is pace. The [timing guide](timing.md) and the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus) are the next step.
 
 ---
 

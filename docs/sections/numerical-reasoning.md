@@ -148,11 +148,11 @@ A. 3,960 &nbsp; B. 4,356 &nbsp; C. 4,500 &nbsp; D. 4,792 &nbsp; E. 4,950
 - **4:** look at what your misses have in common. Base errors (items 1, 2) and weighting errors (items 3, 4) are the usual pair. Reread the traps list.
 - **3 or fewer:** slow down and say the operation out loud before you calculate, every time, until it is automatic. Then rebuild speed.
 
-Want more? The free timed SHL Verify G+ practice test on PrepClubs has the full 30 questions, scored by section: [free SHL Verify G+ practice test](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus).
+Want more? The free timed SHL Verify G+ practice test on PrepClubs has the full 30 questions, scored by section: [free SHL Verify G+ practice test](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus).
 
 ## Next step
 
-The real test mixes numerical items with deductive and inductive ones, so practise switching between them. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus) runs all three types against the clock.
+The real test mixes numerical items with deductive and inductive ones, so practise switching between them. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus) runs all three types against the clock.
 
 ---
 

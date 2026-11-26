@@ -43,7 +43,7 @@ Verify G+ is taken online, on your own, in one sitting. Most problems on the day
 
 ## Last practice before the real one
 
-If you have a day or more, one last timed run is the best use of an hour. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus) covers all three question types.
+If you have a day or more, one last timed run is the best use of an hour. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus) covers all three question types.
 
 ---
 

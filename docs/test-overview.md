@@ -55,7 +55,7 @@ Work only from what is on the screen. Numerical answers come from the table, not
 
 ## Practise the real format
 
-Read the three section guides, then try a full timed run. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus) mixes all three question types against the clock. SHL also hosts its own [practice tests and example questions](https://www.shl.com/shldirect/en/practice-tests/).
+Read the three section guides, then try a full timed run. The [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus) mixes all three question types against the clock. SHL also hosts its own [practice tests and example questions](https://www.shl.com/shldirect/en/practice-tests/).
 
 ---
 

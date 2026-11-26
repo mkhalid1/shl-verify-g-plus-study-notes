@@ -47,7 +47,7 @@ In an adaptive test the questions respond to your answers. Two practical points 
 
 ## Practise against the clock
 
-The notes teach the methods. Only timed practice teaches the pace. Do at least two full timed runs before the real test, such as the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus), and note which question type pushed you over budget.
+The notes teach the methods. Only timed practice teaches the pace. Do at least two full timed runs before the real test, such as the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus), and note which question type pushed you over budget.
 
 ---
 

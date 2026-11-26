@@ -2,7 +2,7 @@
 
 A free, complete study guide for SHL Verify G+, the general ability test that mixes numerical, deductive and inductive reasoning in 36 minutes. It covers how the test works, which version you have, a clear method for each of the three question types, 21 original practice items with full explanations, how the adaptive scoring is reported, and study plans for a week or a weekend. Facts about the test come only from SHL's own pages and documents, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -155,7 +155,7 @@ Every section guide has the same parts: what it measures, how the questions look
 - **Use a calculator and paper,** as you would in the real test.
 - **Read every explanation,** including for items you got right. Most say why the nearest wrong option is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write what you did and what you should check next time. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus), teaches the pace.
+- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus), teaches the pace.
 - **Clone or fork it** if you want your own annotated copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

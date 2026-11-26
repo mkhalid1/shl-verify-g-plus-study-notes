@@ -64,7 +64,7 @@ Yes. SHL hosts free [practice tests and example questions](https://www.shl.com/s
 
 ## Where can I practise for free?
 
-SHL's own practice site, the items in this repo, and the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-verify-g-plus), which mixes all three question types under a timer.
+SHL's own practice site, the items in this repo, and the [free SHL Verify G+ practice test on PrepClubs](https://prepclubs.com/free-practice-tests/shl-general-ability?utm_source=github&utm_medium=referral&utm_campaign=6cqf97&utm_content=shl-verify-g-plus), which mixes all three question types under a timer.
 
 ---
 
